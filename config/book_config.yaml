@@ -1,0 +1,10 @@
+NOVEL_SETTINGS:
+  title: "The Digital Chronicles"
+  genre: "Science Fiction"
+  target_length: 200
+  writing_style: "Descriptive and suspenseful"
+  main_characters:
+    - name: "Dr. Aria Turing"
+      role: "Protagonist"
+    - name: "Nexus-9"
+      role: "AI Antagonist"

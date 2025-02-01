@@ -1,0 +1,12 @@
+# Virtual environment
+novel_env/
+
+# Log files
+scheduler.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Prevent accidental exposure of credentials
+/config/api_config.yaml

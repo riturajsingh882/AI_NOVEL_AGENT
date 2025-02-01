@@ -1,0 +1,6 @@
+GitPython
+openai
+PyYAML
+python-dotenv
+schedule
+pytz

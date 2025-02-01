@@ -1,0 +1,97 @@
+name: Daily Novel Update
+on:
+  schedule:
+    - cron: '30 3 * * *'  # 9 AM IST = 3:30 AM UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: windows-latest
+    permissions:
+      contents: write  # REQUIRED for push access
+
+    steps:
+      - name: Checkout code (Critical Setup)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # Full git history
+          persist-credentials: true  # Preserve checkout credentials
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate config
+        env:
+          KLUSTER_API_KEY: ${{ secrets.KLUSTER_API_KEY }}
+        run: |
+          $configContent = @"
+          KLUSTER_API:
+            base_url: 'https://api.kluster.ai/v1'
+            api_key: '$env:KLUSTER_API_KEY'
+            model: 'klusterai/Meta-Llama-3.1-8B-Instruct-Turbo'
+            parameters:
+              max_tokens: 800
+              temperature: 0.7
+          "@
+          New-Item -Path "config" -Name "api_config.yaml" -ItemType "file" -Value $configContent -Force
+
+      - name: Run daily generation
+        run: python test_run.py
+
+      - name: Commit and Push Changes (Improved)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Remove any existing credential helper to avoid interactive prompts.
+          git config --global --unset credential.helper
+
+          # Reset the remote URL with the token to ensure non-interactive authentication.
+          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/riturajsingh882/AI_NOVEL.git"
+
+          # Configure Git with GitHub Actions identity.
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stage all changes.
+          git add .
+
+          # Prepare a commit message with the current date.
+          $DATE = Get-Date -Format "yyyy-MM-dd"
+          $COMMIT_MESSAGE = "Auto: Daily Page Update [$DATE]"
+
+          # Check if there are any changes to commit.
+          if (git status --porcelain) {
+              try {
+                  git commit -m $COMMIT_MESSAGE
+
+                  # Pull and rebase to ensure we are up-to-date before pushing.
+                  git pull --rebase origin main
+
+                  # Push changes to the main branch.
+                  git push origin HEAD:main
+                  Write-Output "✅ Success! Changes pushed to main branch."
+              } catch {
+                  # Fallback: Attempt a force push if the standard push fails.
+                  Write-Output "⚠️ Standard push failed, attempting force push..."
+                  git push origin HEAD:main -f
+              }
+          } else {
+              Write-Output "🔄 No changes to commit"
+          }
+
+          # Debugging: Output the final remote configuration and token validation.
+          Write-Output "--- FINAL REMOTE CONFIGURATION ---"
+          git remote -v
+          Write-Output "--- TOKEN VALIDATION ---"
+          if ([string]::IsNullOrEmpty($env:GITHUB_TOKEN)) {
+              Write-Output "Token is missing."
+          } else {
+              Write-Output "Token exists."
+          }
