@@ -53,7 +53,7 @@ jobs:
           git config --global --unset credential.helper
 
           # Reset the remote URL with the token to ensure non-interactive authentication.
-          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/riturajsingh882/AI_NOVEL.git"
+          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/riturajsingh882/AI_NOVEL_AGENT.git"
 
           # Configure Git with GitHub Actions identity.
           git config --global user.name "github-actions[bot]"
