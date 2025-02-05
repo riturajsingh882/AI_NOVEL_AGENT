@@ -1,10 +1,11 @@
 {
-  "current_chapter": 2,
-  "current_page": 18,
+  "current_chapter": 3,
+  "current_page": 21,
   "total_pages": 200,
-  "last_commit": "2025-02-04T03:50:01.841841",
+  "last_commit": "2025-02-05T03:53:34.079735",
   "chapter_titles": {
     "1": "The Shadows Within",
-    "2": "Beyond the Shrouded Threshold"
+    "2": "Beyond the Shrouded Threshold",
+    "3": "Beyond the Crystal Threshold"
   }
 }
