@@ -186,3 +186,84 @@ The figure smiled, its eyes seemed to dance with a warm, golden light. "I am the
 Arianna's hand on my arm seemed to sense my unease, and she gave it a reassuring squeeze. "We're here for answers," she whispered. "Not more questions."
 
 But I knew that was a lie. I was here for answers, but I also knew that the truth was going to be far more complicated than I
+
+## Page 27
+### Beyond the Crystal Threshold
+
+As the Oracle's words hung in the air, I felt a sense of trepidation wash over me. The throne, the carvings, and the Oracle itself seemed to radiate an otherworldly energy that was both captivating and unsettling. I glanced at Arianna, her hand still clutched in mine, and saw a mix of emotions playing on her face. Her eyes were fixed on the Oracle, but her gaze seemed to be searching for something more.
+
+I took a step forward, my voice barely above a whisper. "What secrets of the past do you speak of?"
+
+The Oracle's smile grew wider, its eyes sparkling with a warm, golden light. "The secrets of the ancient ones," it began, its voice like a gentle breeze on a summer day. "The ones who once wielded the power of the crystals. The ones who sought to unlock the mysteries of the universe."
+
+As the Oracle spoke, the air around us seemed to shift and swirl, the crystals on the walls pulsating with an increased intensity. I felt a shiver run down my spine as I gazed around the cavernous space, taking in the intricate carvings on the walls. They seemed to dance in the flickering light, telling a story that I couldn't quite decipher.
+
+Arianna's hand tightened around mine, her grip firm. "What do you want from us?" she asked, her voice laced with a hint of suspicion.
+
+The Oracle's smile never wavered. "I want to show you the truth," it said. "The truth about the ancient ones, about the crystals, and about your own past."
+
+I felt a jolt run through me at the last part. My past? What could it have to do with the Oracle's words?
+
+The Oracle gestured to a crystal formation at the far end of the room, one that seemed to be pulsing with an intense energy. "Come," it said. "Let me show you."
+
+As we walked towards the crystal formation, the air seemed to thicken around us, the crystals on the walls reflecting a light that seemed to cut through the very fabric of reality. I felt a sense of disorientation, as though I was being pulled through a tunnel of time and space.
+
+Arianna's hand remained clutched in mine, her grip firm. I glanced at her, but her eyes were fixed on the Oracle, her expression a mask of curiosity. I, on the other hand, couldn't shake the feeling that we were walking into something much bigger than ourselves.
+
+The crystal formation loomed ahead of us, its facets reflecting a light that seemed to refract through the air like a thousand tiny mirrors. As we approached, I felt a sense of unease building inside me, a sense that we were being drawn into something that we didn't fully understand.
+
+The Oracle gestured to the crystal formation, its voice barely above a whisper. "This is the heart of the crystal," it said. "The source of its power, and the key to unlocking the secrets of the past."
+
+I felt a shiver run down my spine as I gazed at the crystal formation, my mind racing with questions. What secrets lay hidden within its depths? And what did they have to do with my own past?
+
+The Oracle's eyes seemed to bore into mine, its gaze piercing. "Come closer," it said. "Let me show you the truth."
+
+As I hesitated, Arianna's hand tightened around mine, her grip firm. "We're here for answers," she whispered. "Not more questions."
+
+But I knew that was a lie. We were here for answers, yes, but I also knew that the truth was going to be far more complicated than we could have ever imagined.
+
+## Page 28
+### Beyond the Crystal Threshold
+
+As we stepped closer to the crystal formation, the air around us seemed to vibrate with an otherworldly energy. The facets of the crystal reflected a kaleidoscope of colors, each one pulsating with an intensity that made my skin prickle. I felt Arianna's hand tremble in mine, her grip loosening as she gazed up at the Oracle with a mix of awe and trepidation.
+
+The Oracle's eyes seemed to gleam with an inner light, its presence radiating an aura of power and wisdom. It raised a hand, and the crystals on the walls around us began to glow with an ethereal light, casting an eerie glow over the room. The air was heavy with the scent of sandalwood and myrrh, the fragrance transporting me to a realm beyond the mundane.
+
+"Come closer," the Oracle whispered, its voice weaving a spell of enchantment around us. "Let me show you the secrets of the past."
+
+Arianna's hand tightened around mine, her voice barely above a whisper. "What are you going to show us?" she asked, her eyes fixed on the Oracle with a mixture of curiosity and apprehension.
+
+The Oracle's gaze drifted to me, its eyes piercing through the veil of time and space. "The truth about your past," it said, its voice dripping with an air of mystery. "The truth that has been hidden from you for so long."
+
+I felt a shiver run down my spine as the Oracle's words echoed through my mind. What could they possibly mean? What secrets lay hidden in my past that I had never known about? The Oracle's words sparked a thousand questions in my mind, each one racing to the forefront of my consciousness like a wild mustang.
+
+As we stepped closer to the crystal formation, the energy emanating from it grew stronger, until I felt like I was being pulled into its very heart. The crystals on the walls around us began to glow with an intense light, casting an otherworldly glow over the room. The air was alive with an electric charge, the hairs on the back of my neck standing on end as I felt the Oracle's power coursing through me.
+
+The Oracle raised its hand, and the crystal formation began to glow with an even brighter light. I felt Arianna's hand tremble in mine, her grip weakening as she gazed up at the Oracle with a mixture of awe and fear. I knew that she was scared, but I couldn't help but feel a sense of wonder and trepidation as well.
+
+As the light from the crystal formation grew brighter, I felt myself being drawn into a vortex of time and space. The room around us seemed to fade away, leaving only the crystal formation and the Oracle's piercing gaze. I felt like I was being pulled into a realm beyond the mundane, a realm where the secrets of the past lay hidden.
+
+The Oracle's voice whispered through my mind, its words echoing through the void. "The truth about your past is not what you think it is," it said. "It is a story of love, loss, and betrayal, one that has been hidden from you for so long. Are you ready to hear it?"
+
+I felt Arianna's hand tighten around mine, her voice barely above a whisper. "Yes," she said, her voice trembling with anticipation. "We're ready."
+
+The Oracle's eyes gleamed with an inner light, its presence radiating an aura of power and wisdom. "Then let us begin," it said, its voice dripping with an air of mystery.
+
+## Page 29
+### Beyond the Crystal Threshold
+
+As the Oracle's words faded away, the crystal formation's glow enveloped us like a shroud. The air was alive with an electric charge, and the hairs on the back of my neck stood on end as I felt the Oracle's power coursing through me. I glanced over at Arianna, her eyes fixed on the crystal formation with a mix of awe and trepidation. Her grip on my hand was like a vice, as if she was holding on for dear life.
+
+The Oracle's eyes seemed to bore into my very soul, its gaze piercing through the veil of time and space. I felt like I was being pulled into a realm beyond the mundane, a realm where the secrets of the past lay hidden. The room around us began to fade away, leaving only the crystal formation and the Oracle's piercing gaze. I felt a shiver run down my spine as the Oracle's words echoed through my mind: "The truth about your past is not what you think it is... It is a story of love, loss, and betrayal, one that has been hidden from you for so long."
+
+As the Oracle began to speak, its voice was like a gentle breeze on a summer's day, a soothing melody that calmed the storm raging within me. "You were born in a small village on the outskirts of a kingdom, a place where the sun dipped into the horizon and painted the sky with hues of crimson and gold. Your parents were poor, but they were happy, and they loved you with all their hearts. But fate had other plans, plans that would tear your family apart and leave you with scars that would never fully heal."
+
+The Oracle's words painted a vivid picture in my mind, a picture of a life I had never known. I felt like I was there, standing in the midst of a small village, surrounded by people who loved me and cared for me. But as the Oracle's words continued, the picture began to change, the colors darkening and the shadows growing longer. "Your parents were accused of treason, accused of conspiring against the king. They were taken away, never to be seen again. You were left alone, a child without a family or a home."
+
+Arianna's grip on my hand tightened, her eyes welling up with tears as she listened to the Oracle's words. I could feel her pain, her empathy for me and my past. I knew that she was scared, but she was also brave, and she stood by me even in the face of uncertainty.
+
+As the Oracle's story continued, the crystal formation's glow grew brighter, illuminating the darkest recesses of my mind. I felt like I was reliving the past, experiencing the pain and the loss that had shaped me into the person I was today. And as the Oracle's words reached the end, I felt like I had been punched in the gut, the air knocked out of me as I struggled to comprehend the truth about my past.
+
+The Oracle's eyes seemed to bore into my soul, its gaze piercing through the veil of time and space. "And now, you must face the truth about your past," it said, its voice dripping with an air of mystery. "You must face the love, the loss, and the betrayal that has shaped you into the person you are today. Are you ready?"
+
+I felt Arianna's hand tremble in mine, her voice barely above a whisper. "We're ready," she said, her voice trembling with anticipation. The Oracle's eyes gleamed with an inner light, its presence radiating an aura of power and wisdom. And as we stood there, the crystal formation's glow enveloping us like a shroud, I knew that we were about to embark on a journey that would change us forever.
