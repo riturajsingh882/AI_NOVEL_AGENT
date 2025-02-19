@@ -296,3 +296,28 @@ The woman gestured for me to sit down, and I collapsed onto a nearby chair, feel
 I nodded, feeling a sense of gratitude towards her. She was my only lifeline, my only hope of making sense of the chaos that had erupted around me. And I knew that I had to be careful, had to trust her with my life.
 
 But as I looked into
+
+## Page 60
+### The Pool of Shadows
+
+As I sat in the chair, the warmth of the fire and the faint scent of wood smoke enveloped me, and for a moment, I felt a sense of calm wash over me. The woman sat down beside me, her eyes fixed on the flames dancing in the hearth. I couldn't help but steal glances at her, trying to read her expression. She seemed so calm, so collected, but I knew that beneath the surface, she was probably just as torn apart as I was.
+
+The cabin was small, with a loft above us that seemed to be filled with various trinkets and artifacts. I caught glimpses of strange symbols etched into the walls, and a collection of strange, ancient-looking objects that seemed to be relics from a bygone era. But despite the strange decor, the woman's presence made the cabin feel like a haven. I felt safe, for the first time since leaving the Pool.
+
+As the fire crackled and spat, the woman turned to me, her eyes searching mine. "So, what do you think is going on?" she asked, her voice low and gentle. I shrugged, feeling a sense of frustration wash over me. "I don't know. I feel like I've been dropped into a world that's completely alien to me. The Pool's power... it's like nothing I've ever experienced before."
+
+She nodded, her expression thoughtful. "The Pool is an ancient place," she said. "One of the oldest and most mysterious sites in the world. Its power is said to be boundless, but it's also incredibly volatile. It's like a wild animal, unpredictable and prone to sudden outbursts."
+
+I nodded, trying to process this. "So, what do you think it wants from me?" I asked, feeling a sense of trepidation creeping over me. The woman's eyes seemed to cloud over, and for a moment, I thought I saw a flicker of fear in her gaze.
+
+"I don't know," she said, her voice barely above a whisper. "But I think it's safe to say that you're not the first person to have experienced the Pool's power. There are others out there, ones who have tapped into its power and used it for their own gain."
+
+I felt a surge of anger at this, but the woman's hand on my arm stayed me. "Wait," she said, her voice firm. "Just listen. I think there's something you need to understand. The Pool's power isn't just a tool, it's a doorway. A doorway to other worlds, other dimensions. And once you've stepped through that doorway, there's no going back."
+
+I felt a shiver run down my spine as she spoke, the words sending a chill through me. "So, what's on the other side?" I asked, my voice barely above a whisper. The woman's eyes seemed to cloud over, and for a moment, I thought I saw a glimpse of something ancient and terrifying lurking just beneath the surface.
+
+"I don't know," she said, her voice barely above a whisper. "But I think it's safe to say that it's not something you'll want to see. At least, not yet."
+
+As she spoke, the fire in the hearth seemed to die down, casting the cabin in a deep, oppressive silence. I felt a sense of unease creeping over me, a sense that we were standing on the edge of a precipice, staring out into an abyss. And the woman's words seemed to echo through my mind, a warning that I couldn't shake.
+
+We sat there in silence for a long time, the only sound the distant howling of wind through the trees. And I couldn't help but wonder what lay ahead, what secrets the Pool's power held, and what lay on the other side of that doorway.

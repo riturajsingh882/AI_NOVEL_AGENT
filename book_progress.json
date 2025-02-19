@@ -1,14 +1,15 @@
 {
-  "current_chapter": 6,
-  "current_page": 60,
+  "current_chapter": 7,
+  "current_page": 63,
   "total_pages": 200,
-  "last_commit": "2025-02-18T03:50:21.825407",
+  "last_commit": "2025-02-19T03:55:50.994078",
   "chapter_titles": {
     "1": "The Shadows Within",
     "2": "Beyond the Shrouded Threshold",
     "3": "Beyond the Crystal Threshold",
     "4": "Beyond the Crystal Threshold",
     "5": "Beyond the Crystal Gateway",
-    "6": "The Pool of Shadows"
+    "6": "The Pool of Shadows",
+    "7": "Beyond the Veiled Threshold"
   }
 }
