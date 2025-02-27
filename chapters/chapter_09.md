@@ -101,3 +101,112 @@ I looked around the room, trying to think of a way to escape. But the doors were
 I held him tight, trying to keep him with me. "No, Jack," I said, my voice filled with tears. "You can't leave me. I won't let you go."
 
 But as I held him, I knew that was impossible. He was slipping away, disappearing into the darkness. And I
+
+## Page 84
+### Beyond the Veiled Threshold
+
+As I held Jack, I could feel his body growing colder, his heart beating slower. I was losing him, slipping away from me into the darkness that seemed to be devouring him whole. I refused to let him go, holding him tight as if my grip could keep him anchored to the world we knew.
+
+"Please, Jack, don't leave me," I whispered, my voice cracking with desperation. "We have to get out of here, together. We have to find a way to stop whatever is happening to you."
+
+He looked up at me, his eyes dark and unfocused, but I could see a glimmer of recognition in them. "Lena...I'm scared," he whispered, his voice barely audible.
+
+I wrapped my arms tighter around him, holding him close. "I'm scared too, Jack," I said, trying to keep my voice steady. "But we'll face it together. We'll find a way out of this place."
+
+But as I looked around the room, I knew that was a lie. We were trapped, with no way out. The doors were locked, the windows barred, and the walls seemed to be closing in on us. I felt a sense of claustrophobia wash over me, making it hard to breathe.
+
+The room was cold and dimly lit, the only sound the creaking of the old wooden floorboards beneath our feet. The air was thick with the scent of decay and rot, and I could feel the weight of the manor's history bearing down on us.
+
+"Lena, I remember something else," Jack whispered, his voice filled with a hint of fear. "I remember a voice, a voice that was whispering in my ear. It was telling me things, terrible things."
+
+I looked at him, my heart racing with fear. "What was it saying, Jack?" I demanded, trying to keep my voice steady.
+
+He shook his head, his eyes dark and unfocused. "I don't know. But it was real, Lena. It was real."
+
+I felt a chill run down my spine as I realized that we were dealing with something far more sinister than I had initially thought. This wasn't just a simple case of mind control or manipulation. This was something darker, something that threatened to consume us whole.
+
+As I held Jack, I knew that I had to think clearly, to think of a way to get us out of this place. But my mind was racing, filled with images of the glass room and the terrible things that Jack had seen.
+
+I looked around the room again, searching for any clues, any hint of a way out. But there was nothing. Just the cold, dark walls and the creaking floorboards. I felt a sense of despair wash over me, making it hard to breathe.
+
+"Lena?" Jack whispered, his voice barely audible.
+
+I looked at him, tears streaming down my face. "I'm here, Jack," I said, trying to reassure him. "I'm not going to let you go."
+
+But as I held him, I knew that I was lying. I was losing him, slipping away from me into the darkness. And I didn't know if I could ever get him back.
+
+## Page 85
+### Beyond the Veiled Threshold
+
+As I held Jack, I couldn't help but think of all the things I had yet to tell him. All the secrets I had kept hidden, even from him. The weight of those secrets felt like a physical burden, crushing me with every passing moment.
+
+"Lena, what's going on?" Jack whispered, his voice laced with a mix of fear and confusion. "Why are we here? What do they want from us?"
+
+I took a deep breath, trying to think of a way to explain it to him. But the words got stuck in my throat, and I couldn't bring myself to speak. I knew that if I told him the truth, he would be consumed by it, just like I had been. The darkness would close in around him, and I wouldn't be able to save him.
+
+I looked around the room again, searching for any clue, any hint of a way out. But there was nothing. Just the cold, dark walls and the creaking floorboards. It was as if we were trapped in a never-ending nightmare, with no escape in sight.
+
+The air in the room seemed to grow colder, and I could see my breath misting in front of me. I knew that I had to think clearly, to think of a way to get us out of this place. But my mind was a jumble of thoughts and fears, making it hard to focus.
+
+"Lena, I remember something else," Jack whispered, his voice filled with a sense of urgency. "I remember a door. A door that led to a garden. A beautiful garden, full of flowers and trees."
+
+I looked at him, my heart racing with a glimmer of hope. "What else do you remember?" I asked, trying to keep my voice steady.
+
+Jack's eyes seemed to glaze over, and he began to speak in a detached tone. "I remember walking through the garden, feeling the sun on my face and the breeze in my hair. I remember the sound of birds singing, and the smell of blooming flowers. It was beautiful, Lena. It was like a dream come true."
+
+But as he spoke, his eyes snapped back into focus, and he looked at me with a sense of horror. "But it wasn't a dream, Lena. It was real. And it was wrong. I was trapped in a world that wasn't my own, and I didn't know how to escape."
+
+I felt a chill run down my spine as I realized that Jack was telling the truth. He had been trapped in some kind of alternate reality, and I had no idea how to free him. I looked around the room again, searching for any clue, any hint of a way out. But there was nothing.
+
+As I held Jack, I knew that I had to think of something, anything, to save him. But my mind was a blank, and I couldn't think of anything. I felt a sense of despair wash over me, making it hard to breathe.
+
+Just as I thought I was going to lose my grip on reality, I heard a faint noise coming from outside the room. It was a faint scratching sound, like fingernails on a chalkboard. I looked at Jack, and he looked at me, both of us wondering what it could be.
+
+The scratching sound grew louder, and I could feel the walls of the room begin to shake. I knew that whatever was making that noise was getting closer, and I didn't know what to do.
+
+"Lena, what's happening?" Jack whispered, his voice filled with fear.
+
+I took a deep breath, trying to think of a way to protect us. But as I looked around the room, I knew that we were running out of time. The darkness was closing in around us, and I didn't know if we would ever be able to escape.
+
+As the scratching sound grew louder, I knew that we
+
+## Page 86
+### Beyond the Veiled Threshold
+
+The scratching sound was deafening now, like fingernails scraping against the walls of our prison. I felt the vibrations of the noise coursing through my body, making my skin crawl. Jack's eyes were wide with fear, and I could feel his heart racing against mine.
+
+"What is that?" Jack whispered, his voice barely audible over the cacophony of sound. I shook my head, trying to think of a way to protect us. The walls of the room seemed to be closing in, the air thickening with an unseen presence.
+
+I glanced around the room, searching for any clue, but there was nothing. The garden outside seemed to be forgotten, lost in the midst of this growing chaos. I felt a sense of panic rising within me, as if time was running out. The scratching sound grew louder, and I could feel the walls starting to shake.
+
+Suddenly, the door to our prison slammed open, and a figure tumbled into the room. It was a woman, her clothes tattered and her hair disheveled. She stumbled towards us, her eyes wild with a mixture of fear and desperation.
+
+"Lena, thank goodness you're here," she exclaimed, her voice barely above a whisper. "I've been searching for you everywhere."
+
+I stared at her, unsure of who she was or how she knew me. "Who are you?" I asked, trying to keep my voice steady.
+
+The woman's eyes darted towards Jack, and for a moment, I thought I saw a flicker of recognition. But it was quickly replaced by a look of horror. "Oh no, no, no," she whispered, reaching out a trembling hand towards Jack.
+
+"Lena, what's going on?" Jack asked, his voice filled with confusion.
+
+The woman's eyes never left Jack's face. "You're...you're one of them," she stammered, as if she couldn't believe what she was seeing. "You're a Shadowborn."
+
+I felt a chill run down my spine as I realized what she was saying. Jack was a Shadowborn, a being from another realm. But what did that mean? And what was going on?
+
+"What do you mean?" I asked, trying to keep my voice steady.
+
+The woman's eyes locked onto mine, and I saw a glimmer of determination. "I'm here to help you, Lena. I'm here to help you free Jack from this place."
+
+I stared at her, unsure of who to trust. But something in her eyes told me that she was telling the truth. For the first time in what felt like an eternity, I felt a glimmer of hope. Maybe, just maybe, we could escape this place after all.
+
+The woman turned to Jack, her eyes shining with a mixture of fear and determination. "Come on, Jack," she said, her voice barely above a whisper. "It's time to go."
+
+But as she reached out towards Jack, the scratching sound grew louder, and the walls began to shake even more violently. I felt a sense of panic rising within me, as if we were running out of time.
+
+"Lena, what's happening?" Jack asked, his voice filled with fear.
+
+I shook my head, unsure of what to do. But the woman's words echoed in my mind, "I'm here to help you, Lena. I'm here to help you free Jack from this place."
+
+With newfound determination, I turned to the woman. "Okay," I said, my voice steady. "Let's do it."
+
+Together, the three of us steeled ourselves for what was to come. We knew that we were taking a risk, but we also knew that we had no choice. The darkness was closing in around us, and we had to escape before it was too late.
