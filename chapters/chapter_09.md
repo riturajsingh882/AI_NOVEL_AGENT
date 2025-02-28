@@ -210,3 +210,104 @@ I shook my head, unsure of what to do. But the woman's words echoed in my mind, 
 With newfound determination, I turned to the woman. "Okay," I said, my voice steady. "Let's do it."
 
 Together, the three of us steeled ourselves for what was to come. We knew that we were taking a risk, but we also knew that we had no choice. The darkness was closing in around us, and we had to escape before it was too late.
+
+## Page 87
+### Beyond the Veiled Threshold
+
+As we stood there, the scratching sound grew louder, the walls shaking with an intensity that made it difficult to stand upright. The air was thick with the scent of damp earth and decay, and I could feel the weight of the darkness pressing down upon us.
+
+"Okay," I said, determination bolstering my voice, "let's do it." I took a step forward, my eyes locked on the woman, who smiled weakly in response. Jack, still frozen in place, his eyes wide with fear, didn't move.
+
+The woman turned to him, her voice barely above a whisper. "Jack, we need to go. Now." Her words seemed to register, and he took a hesitant step forward, his eyes darting between me and the woman.
+
+I took another step forward, my heart pounding in my chest. The woman was leading the way, her eyes fixed on some point ahead. I followed, my senses on high alert as we moved deeper into the darkness.
+
+The air grew colder, the shadows twisting and writhing around us like living things. I stumbled, my foot catching on a loose stone, but the woman caught my arm, steadying me. Jack, still hesitant, trailed behind us, his eyes fixed on the woman.
+
+As we moved, the scratching sound grew louder, the walls shaking with an almost violent intensity. I could feel the ground trembling beneath my feet, and I knew that we were running out of time.
+
+The woman led us through a narrow corridor, the walls pressing in on either side. I could feel the weight of the darkness bearing down upon us, and I knew that we were getting close to the heart of the place.
+
+"Where are we going?" I asked, my voice barely above a whisper.
+
+The woman didn't answer, her eyes fixed on some point ahead. But I could sense her tension, her fear. We were getting close to something, I knew it.
+
+The corridor began to slope downward, the air growing colder and damper. I could hear the sound of dripping water echoing through the passageway, and I knew that we were approaching some kind of underground chamber.
+
+As we descended, the walls grew more ornate, the stone carvings depicting scenes of great battles and powerful magic. I felt a shiver run down my spine as I realized that this was no ordinary place.
+
+Finally, we emerged into a large underground chamber, the ceiling lost in darkness. The room was filled with rows of ancient stone pedestals, each one topped with a glowing crystal. The air was thick with an otherworldly energy, and I could feel the weight of the place bearing down upon us.
+
+The woman led us to the center of the room, where a large stone pedestal stood. On top of it sat a glowing crystal, pulsing with an intense energy. I could feel its power calling to me, drawing me in.
+
+"This is it," the woman said, her voice barely above a whisper. "This is the key to freeing Jack."
+
+I turned to her, my eyes locked on hers. "How?" I asked, my voice barely above a whisper.
+
+The woman hesitated, her eyes flicking to Jack, who stood frozen in place. "We need to...we need to unlock his past," she said, her voice trembling. "We need to find the truth about his time here."
+
+I nodded, determination building within me. We were getting close, I knew it. And I was ready to do whatever it took to free Jack from this place.
+
+## Page 88
+### Beyond the Veiled Threshold
+
+The air in the chamber was heavy with anticipation, the weight of the glowing crystals pressing down upon us. I could feel the energy emanating from them, a power that seemed to be calling to me, drawing me in. The woman's words echoed in my mind - "we need to unlock his past" - and I knew that we were on the cusp of something momentous.
+
+As I approached the large stone pedestal, I felt a shiver run down my spine. The crystal on top of it pulsed with an intense energy, its light casting an otherworldly glow over the chamber. I could feel its power calling to me, drawing me in, and I knew that I had to be careful. The woman's words had been laced with a warning, and I knew that we were playing with forces beyond our control.
+
+"What do we need to do?" I asked, my voice barely above a whisper. I glanced at Jack, who stood frozen in place, his eyes fixed on some point beyond the reach of the light. I knew that he was struggling to remember, to unlock the secrets of his past.
+
+The woman hesitated, her eyes flicking to the crystal, then back to me. "We need to find the truth about his time here," she said, her voice trembling. "We need to uncover the secrets that have been hidden for so long."
+
+I nodded, determination building within me. We were getting close, I knew it. And I was ready to do whatever it took to free Jack from this place. I glanced around the chamber, taking in the rows of pedestals, each one topped with a glowing crystal. The air was thick with energy, and I could feel the weight of the place bearing down upon us.
+
+The woman led me to a small alcove, where a series of ancient carvings adorned the walls. They depicted scenes of great battles, powerful magic, and ancient rituals. I felt a shiver run down my spine as I realized the significance of the carvings. This was no ordinary place, and we were playing with forces beyond our control.
+
+"Look," the woman said, her voice barely above a whisper. She pointed to a series of symbols etched into the wall. "These are the keys to unlocking Jack's past. We need to decipher their meaning, to unlock the secrets that have been hidden for so long."
+
+I nodded, my mind racing with the implications. The symbols were ancient, and I knew that they would take time to decipher. But I was ready to do whatever it took to free Jack from this place. I took a deep breath, focusing on the symbols, and began to study them in detail.
+
+As I worked, the woman stood guard, her eyes fixed on Jack, who stood frozen in place. I could feel the weight of the place bearing down upon us, and I knew that we were running out of time. The air was thick with energy, and I could feel the power of the crystals pulsing through me.
+
+Suddenly, I felt a jolt of electricity run through my body. I looked up to see a small inscription etched into the wall, a message that seemed to be addressed to me. My heart racing, I read the words, and my mind reeled with the implications.
+
+"It's a riddle," I said, my voice barely above a whisper. "A riddle that leads to the truth about Jack's past."
+
+The woman's eyes locked onto mine, a spark of hope igniting within them. "What is it?" she asked, her voice trembling with anticipation.
+
+I took a deep breath, my mind racing with the possibilities. "It says... 'Where shadows fall, the truth will rise. Seek the reflection of the past, and the secrets will be revealed.'"
+
+I looked at the woman, my eyes locked onto hers. "I think I know what it means," I said,
+
+## Page 89
+### Beyond the Veiled Threshold
+
+The words echoed in my mind as I gazed at the inscription etched into the wall. I felt a shiver run down my spine as I pondered the meaning behind the riddle. The woman's eyes were fixed on me, anticipation etched on her face. I took a deep breath, my mind racing with the possibilities.
+
+"Where shadows fall, the truth will rise," I repeated, my voice barely above a whisper. "This must mean that we're looking for some kind of reflection... a mirror, perhaps?" I glanced around the alcove, searching for any sign of a mirror or a reflective surface.
+
+The woman nodded, her eyes darting around the room as well. "A reflection of the past," she murmured, her voice filled with a mix of excitement and trepidation. "This could be it, the key to unlocking Jack's secrets."
+
+I nodded, my eyes scanning the alcove once more. The carvings on the wall seemed to be watching us, their ancient secrets waiting to be uncovered. I spotted a small pool of water on the floor, partially hidden by the shadows. It was a small reflection, but it was enough to confirm my theory.
+
+"Look," I said, pointing to the pool of water. The woman's eyes followed my gesture, and a look of understanding dawned on her face.
+
+"It's a reflection of the past," she whispered, her voice filled with awe. "The symbols etched into the wall must be a riddle, a challenge to unlock the secrets that lie within."
+
+I nodded, my mind racing with the implications. We were one step closer to uncovering Jack's secrets, but we still had a long way to go. The air in the alcove seemed to grow thick with anticipation, the weight of the place bearing down on us like never before.
+
+As we stood there, frozen in time, I felt a subtle shift in the energy around us. The crystals pulsing through me seemed to grow stronger, their power coursing through my veins like liquid fire. I knew that we were on the brink of something momentous, something that would change the course of our lives forever.
+
+The woman's eyes met mine, a spark of hope igniting within them. "We're getting close," she whispered, her voice barely audible.
+
+I nodded, my heart pounding in my chest. We were on the cusp of a great revelation, one that would reveal the secrets of Jack's past and change the course of our lives forever.
+
+"Let's see what happens when we reflect on the past," I said, my voice barely above a whisper. "Maybe then we'll finally uncover the truth about Jack's secrets."
+
+The woman nodded, her eyes locked onto mine. We took a deep breath, our hearts pounding in anticipation. And then, together, we stepped forward, into the unknown.
+
+As we approached the pool of water, the shadows seemed to deepen, growing darker and more menacing. The air around us grew colder, the weight of the place bearing down on us like a physical force. But I knew that we were on the right track, that we were one step closer to unlocking the secrets of Jack's past.
+
+I gazed into the pool of water, my eyes searching for any sign of a reflection. And then, suddenly, I saw it. A faint image, a ghostly echo of a person who looked uncannily like Jack. But it was different, somehow, a reflection of the person he used to be before his memories were stolen.
+
+I felt a shiver run down my spine as I realized the implications. This was it, the key to unlocking Jack's secrets. I turned to the woman, my eyes locked onto hers. "I think I see something," I whispered, my voice trembling with excitement.
