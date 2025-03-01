@@ -311,3 +311,34 @@ As we approached the pool of water, the shadows seemed to deepen, growing darker
 I gazed into the pool of water, my eyes searching for any sign of a reflection. And then, suddenly, I saw it. A faint image, a ghostly echo of a person who looked uncannily like Jack. But it was different, somehow, a reflection of the person he used to be before his memories were stolen.
 
 I felt a shiver run down my spine as I realized the implications. This was it, the key to unlocking Jack's secrets. I turned to the woman, my eyes locked onto hers. "I think I see something," I whispered, my voice trembling with excitement.
+
+## Page 90
+### Beyond the Veiled Threshold
+
+As I gazed deeper into the pool of water, the image of the person who looked uncannily like Jack began to take shape. It was a younger version of him, one with a glimmer of hope in his eyes and a hint of curiosity on his face. I felt a shiver run down my spine as I realized the implications of what I was seeing.
+
+"This can't be," the woman whispered, her voice barely audible over the sound of the water lapping against the stone. "This is Jack's past, his memories stolen from him by the organization."
+
+I nodded, my eyes still fixed on the image in the pool. "It's like he's trapped in a never-ending loop, reliving the same memories over and over again. But this... this could be the key to unlocking the secrets of his past."
+
+The woman's eyes met mine, a spark of determination igniting within them. "We have to get to the bottom of this," she said, her voice firm. "We have to uncover the truth about Jack's memories and the organization that stole them."
+
+I nodded, my mind racing with possibilities. "But how do we do that?" I asked, my voice barely above a whisper.
+
+The woman's gaze drifted to the pool of water, her eyes searching for any sign of a clue. "Maybe the answer lies within the memories themselves," she said, her voice filled with a sense of hope. "Maybe if we can tap into Jack's past, we can uncover the truth about his memories and the organization that stole them."
+
+As we stood there, frozen in time, the air around us began to change. The shadows deepened, growing darker and more menacing. The weight of the place bearing down on us like a physical force, making it hard to breathe. But I knew that we were on the right track, that we were one step closer to unlocking the secrets of Jack's past.
+
+I took a deep breath, my heart pounding in my chest. "Let's do it," I said, my voice firm. "Let's tap into Jack's memories and see what we can uncover."
+
+The woman nodded, her eyes locked onto mine. Together, we raised our hands, our fingers touching as we began to concentrate. The crystals pulsing through me seemed to grow stronger, their power coursing through my veins like liquid fire. I felt myself being drawn into the memories, into the past of the person who looked uncannily like Jack.
+
+As we delved deeper into the memories, the world around us began to fade away. The sound of the water lapping against the stone grew distant, replaced by the sound of whispers and screams. I felt myself being pulled into a world of darkness and despair, one that seemed to have no end.
+
+But I knew that we had to keep going, that we had to uncover the truth about Jack's memories and the organization that stole them. So I took a deep breath, my heart pounding in my chest, and plunged forward into the unknown.
+
+The memories were fragmented and disjointed, but I knew that they were the key to unlocking the secrets of Jack's past. I saw glimpses of a life that was both familiar and yet completely foreign. A life of pain and suffering, of loss and heartache. But I also saw glimpses of a life that was full of hope and determination, of a person who was fighting against the odds to survive.
+
+As I delved deeper into the memories, the world around me began to take shape. I saw a person who looked uncannily like Jack, a person who was trapped in a never-ending loop of pain and suffering. But I also saw a person who was fighting against the odds, a person who was determined to survive no matter what.
+
+And then, suddenly, I saw it. A glimpse of a person who was responsible for Jack's memories being stolen. A person who was

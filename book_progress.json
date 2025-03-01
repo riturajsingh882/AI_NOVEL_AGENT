@@ -1,8 +1,8 @@
 {
-  "current_chapter": 9,
-  "current_page": 90,
+  "current_chapter": 10,
+  "current_page": 93,
   "total_pages": 200,
-  "last_commit": "2025-02-28T03:57:17.019302",
+  "last_commit": "2025-03-01T03:59:31.635301",
   "chapter_titles": {
     "1": "The Shadows Within",
     "2": "Beyond the Shrouded Threshold",
@@ -12,6 +12,7 @@
     "6": "The Pool of Shadows",
     "7": "Beyond the Veiled Threshold",
     "8": "Beyond the Veiled Gate",
-    "9": "Beyond the Veiled Threshold"
+    "9": "Beyond the Veiled Threshold",
+    "10": "Into the Fractured Mind"
   }
 }
