@@ -267,3 +267,30 @@ With a surge of fear and determination, I grabbed Alistair's arm and pulled him 
 As we stumbled through the darkness, the light grew brighter, illuminating the twisted, gnarled branches of the trees. I could see that we were approaching some kind of opening, a narrow gap in the trees that seemed to lead deeper into the forest. I pulled Alistair through the gap, my heart pounding in my chest.
 
 We emerged into a small clearing, the air thick with the scent of damp earth and decaying leaves. I looked around, trying to get my bearings. The clearing was surrounded by a ring of mushrooms, their caps glowing softly in the dark. I felt a shiver run down my spine as I realized
+
+## Page 120
+### Into the Fractured Depths
+
+As we stumbled out of the dense thicket, the eerie silence of the clearing enveloped us like a shroud. Alistair's gaze remained fixed on the ground, his eyes vacant and unresponsive. I felt a surge of fear as I realized that we were not out of danger yet. The darkness seemed to be closing in around us, and I knew that I had to keep moving, to keep Alistair moving.
+
+I glanced around, trying to take stock of our surroundings. The ring of mushrooms that surrounded us cast an otherworldly glow, their caps pulsing softly in the dark. The air was heavy with the scent of damp earth and decaying leaves, and I could feel the damp mist clinging to my skin like a cold, wet shroud. The trees loomed above us, their branches twisted and gnarled, their leaves a deep, foreboding green.
+
+"Alistair, come on," I said, trying to rouse him from his trance-like state. "We have to keep moving."
+
+But he didn't respond. He just kept walking, his eyes fixed on the ground, his feet moving in slow, mechanical steps. I knew that I had to keep a close eye on him, to make sure that he didn't stumble and fall. The ground beneath us was uneven and treacherous, and I could feel the earth shifting beneath my feet like a living thing.
+
+As we walked, the mushrooms seemed to grow brighter, their glow illuminating the twisted, gnarled branches of the trees. I felt a shiver run down my spine as I realized that we were walking deeper into the heart of the forest, further into the fractured depths of the woods. I knew that we were taking a risk, that we were venturing into the unknown, but I had no choice. I had to keep moving, to keep Alistair moving, or risk losing him forever.
+
+The air grew colder and damper, and I could feel the mist clinging to my skin like a wet shroud. I pulled my jacket closer around me, trying to warm myself up. But it was no use. I was cold to the bone, and I knew that we were in for a long, hard night.
+
+As we walked, the trees seemed to grow closer together, their branches tangling together like a living fence. I knew that we were walking through a narrow, winding path, one that was barely wide enough for us to pass through. The air was thick with the scent of damp earth and decaying leaves, and I could feel the earth shifting beneath my feet like a living thing.
+
+Suddenly, Alistair stopped walking. He stood frozen, his eyes fixed on something in the distance. I followed his gaze, and I saw that we were approaching a fast-moving stream. The water was crystal clear, and I could see fish swimming lazily in the depths. But it was the sound of the water that caught my attention. It was a sound that seemed to be calling to me, a sound that seemed to be drawing me in.
+
+"Alistair, what is it?" I asked, trying to keep my voice low.
+
+But he didn't respond. He just kept standing there, his eyes fixed on the stream. I knew that I had to keep moving, to keep Alistair moving. I took a deep breath, and I reached out to grab his arm.
+
+"Come on," I said, trying to rouse him from his trance-like state. "We have to keep moving."
+
+But he resisted. He shook me off, his eyes flashing with a hint of recognition. For a moment, I thought that he had snapped out of it, that he had come back to himself. But it was just a moment. He let me go, and he walked back to the stream. He stood there, his eyes fixed on the water, his body swaying gently in the
