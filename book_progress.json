@@ -1,8 +1,8 @@
 {
-  "current_chapter": 15,
-  "current_page": 150,
+  "current_chapter": 16,
+  "current_page": 153,
   "total_pages": 200,
-  "last_commit": "2025-03-20T03:57:40.049122",
+  "last_commit": "2025-03-21T04:00:10.361055",
   "chapter_titles": {
     "1": "The Shadows Within",
     "2": "Beyond the Shrouded Threshold",
@@ -18,6 +18,7 @@
     "12": "Into the Fractured Depths",
     "13": "The River's Haunting Call",
     "14": "The Shadows of Knowledge",
-    "15": "The Book of Ancient Secrets"
+    "15": "The Book of Ancient Secrets",
+    "16": "The Shadows Within"
   }
 }
