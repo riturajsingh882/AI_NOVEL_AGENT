@@ -1,8 +1,8 @@
 {
-  "current_chapter": 20,
-  "current_page": 198,
+  "current_chapter": 21,
+  "current_page": 201,
   "total_pages": 200,
-  "last_commit": "2025-04-05T03:58:26.198797",
+  "last_commit": "2025-04-06T03:59:09.202967",
   "chapter_titles": {
     "1": "The Shadows Within",
     "2": "Beyond the Shrouded Threshold",
@@ -23,6 +23,7 @@
     "17": "Beyond the Grave's Message",
     "18": "Shadows of the Forgotten",
     "19": "Beyond the Forgotten Pages",
-    "20": "Into the Labyrinth of Shadows"
+    "20": "Into the Labyrinth of Shadows",
+    "21": "Beyond the Shadowed Threshold"
   }
 }
