@@ -1,8 +1,8 @@
 {
-  "current_chapter": 23,
-  "current_page": 228,
+  "current_chapter": 24,
+  "current_page": 231,
   "total_pages": 200,
-  "last_commit": "2025-04-15T04:01:05.929521",
+  "last_commit": "2025-04-16T04:01:17.552369",
   "chapter_titles": {
     "1": "The Shadows Within",
     "2": "Beyond the Shrouded Threshold",
@@ -26,6 +26,7 @@
     "20": "Into the Labyrinth of Shadows",
     "21": "Beyond the Shadowed Threshold",
     "22": "Beyond the Edge of Reality",
-    "23": "Into the Hidden Realm"
+    "23": "Into the Hidden Realm",
+    "24": "The Ancient Tree's Secret"
   }
 }
