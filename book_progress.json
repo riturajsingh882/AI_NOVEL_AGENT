@@ -1,8 +1,8 @@
 {
-  "current_chapter": 29,
-  "current_page": 288,
+  "current_chapter": 30,
+  "current_page": 291,
   "total_pages": 200,
-  "last_commit": "2025-05-05T04:05:49.371641",
+  "last_commit": "2025-05-06T04:02:49.876434",
   "chapter_titles": {
     "1": "The Shadows Within",
     "2": "Beyond the Shrouded Threshold",
@@ -32,6 +32,7 @@
     "26": "Beyond the Veiled Threshold",
     "27": "Beneath the Void's Dark Heart",
     "28": "Into Eternal Darkness",
-    "29": "The Shadows Beckon Home"
+    "29": "The Shadows Beckon Home",
+    "30": "Shadows in the Corridor"
   }
 }
