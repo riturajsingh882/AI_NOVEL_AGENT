@@ -1,8 +1,8 @@
 {
-  "current_chapter": 32,
-  "current_page": 318,
+  "current_chapter": 33,
+  "current_page": 321,
   "total_pages": 200,
-  "last_commit": "2025-05-15T04:04:41.005752",
+  "last_commit": "2025-05-16T04:05:54.230429",
   "chapter_titles": {
     "1": "The Shadows Within",
     "2": "Beyond the Shrouded Threshold",
@@ -35,6 +35,7 @@
     "29": "The Shadows Beckon Home",
     "30": "Shadows in the Corridor",
     "31": "Beyond the Edge of Madness",
-    "32": "Beyond the Fossilized Horizon"
+    "32": "Beyond the Fossilized Horizon",
+    "33": "Beyond the Fossilized Horizon"
   }
 }
