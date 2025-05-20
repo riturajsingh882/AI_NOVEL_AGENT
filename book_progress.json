@@ -1,8 +1,8 @@
 {
-  "current_chapter": 33,
-  "current_page": 330,
+  "current_chapter": 34,
+  "current_page": 333,
   "total_pages": 200,
-  "last_commit": "2025-05-19T04:11:04.598406",
+  "last_commit": "2025-05-20T04:05:43.578824",
   "chapter_titles": {
     "1": "The Shadows Within",
     "2": "Beyond the Shrouded Threshold",
@@ -36,6 +36,7 @@
     "30": "Shadows in the Corridor",
     "31": "Beyond the Edge of Madness",
     "32": "Beyond the Fossilized Horizon",
-    "33": "Beyond the Fossilized Horizon"
+    "33": "Beyond the Fossilized Horizon",
+    "34": "The Web of Awakening"
   }
 }
