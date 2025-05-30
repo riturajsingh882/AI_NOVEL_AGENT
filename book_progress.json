@@ -1,8 +1,8 @@
 {
-  "current_chapter": 36,
-  "current_page": 360,
+  "current_chapter": 37,
+  "current_page": 363,
   "total_pages": 200,
-  "last_commit": "2025-05-29T04:07:28.785903",
+  "last_commit": "2025-05-30T04:05:04.985499",
   "chapter_titles": {
     "1": "The Shadows Within",
     "2": "Beyond the Shrouded Threshold",
@@ -39,6 +39,7 @@
     "33": "Beyond the Fossilized Horizon",
     "34": "The Web of Awakening",
     "35": "Secrets of the Ancient Ones",
-    "36": "The Forest's Ancient Call"
+    "36": "The Forest's Ancient Call",
+    "37": "Beyond the Heartwood Gate"
   }
 }

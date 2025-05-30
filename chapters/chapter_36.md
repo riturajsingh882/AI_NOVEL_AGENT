@@ -268,3 +268,32 @@ The woman's back remained still, her eyes fixed on some point in the distance, b
 "What do we do now?" Rhys asked, his voice barely above a whisper, as if he feared disturbing the silence that had fallen over the forest. The woman's back remained still, her eyes fixed on some point in the distance, but I could sense a subtle movement, a twitch of her shoulders, a shift of her weight.
 
 "We wait," she replied, her voice a soft, melodious sound that seemed to carry on the wind. "We wait for the Heartwood to reveal its secrets, to show us the mysteries that lie within." As she spoke, the darkness seemed
+
+## Page 360
+### The Forest's Ancient Call
+
+The darkness seemed to swallow us whole, the silence so thick it felt like a physical presence. I strained my ears, trying to pick up any sound, but there was nothing. No rustling of leaves, no snapping of twigs, no hooting of owls. Just an oppressive stillness that seemed to weigh upon us.
+
+Rhys's hand tightened around mine, his eyes fixed on the woman's back. I felt a surge of comfort at his touch, but it was tempered by a growing sense of unease. What were we waiting for? What secrets lay hidden in the depths of the forest?
+
+The woman's back remained still, her eyes fixed on some point in the distance. I followed her gaze, but there was nothing to see. Just the darkness, stretching out before us like an endless void.
+
+As I stood there, a faint rustling sound began to emanate from the underbrush. It was soft at first, but grew louder, until I could feel the vibrations of the sound through the soles of my feet. The woman's back didn't move, but I could sense a subtle tension in her shoulders. Rhys's grip on my hand tightened, his eyes scanning the darkness.
+
+"What's that?" he whispered, his voice barely audible over the growing din.
+
+The woman's voice was a soft whisper, carried on the wind. "The forest is awakening. The Heartwood is stirring."
+
+As she spoke, the rustling grew louder, until it sounded like a chorus of whispers, all speaking at once. The air was filled with a soft, ethereal music, like the gentle chime of a thousand tiny bells. I felt my heart begin to quicken, my senses growing more acute as the forest's power surged around us.
+
+The woman took a step forward, her eyes still fixed on some point in the distance. Rhys and I followed, our feet sinking into the soft earth. The rustling grew louder, until it sounded like a low, thrumming hum, like the beat of a great drum.
+
+As we walked, the trees seemed to grow taller, their branches reaching out like skeletal fingers. The air grew colder, the darkness deepening until it felt like we were walking through a tunnel of pure blackness. I stumbled, my foot catching on a hidden root, but Rhys's hand steadied me, his eyes never leaving the woman's back.
+
+We walked for what felt like hours, the rustling growing louder, the music growing more complex. The forest was awakening, and I could feel its power building, growing, until it felt like a living, breathing thing, pulsing with energy.
+
+And then, suddenly, we emerged into a clearing. The rustling stopped, the music fading away like a dying breath. The woman's back straightened, her eyes fixed on some point in the distance.
+
+We stood there, frozen, as the forest's power surged around us. I felt my heart pounding in my chest, my senses reeling from the sheer force of it. The woman's voice was a soft whisper, carried on the wind.
+
+"The Heartwood," she said, her voice barely audible. "We are here."
