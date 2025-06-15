@@ -1,8 +1,8 @@
 {
-  "current_chapter": 41,
-  "current_page": 408,
+  "current_chapter": 42,
+  "current_page": 411,
   "total_pages": 200,
-  "last_commit": "2025-06-14T04:05:34.746359",
+  "last_commit": "2025-06-15T04:14:50.379850",
   "chapter_titles": {
     "1": "The Shadows Within",
     "2": "Beyond the Shrouded Threshold",
@@ -44,6 +44,7 @@
     "38": "Beyond the Dark Enchantment",
     "39": "Beyond the Gateway's Edge",
     "40": "Beyond the Threshold",
-    "41": "Beyond the Hidden Realm"
+    "41": "Beyond the Hidden Realm",
+    "42": "Beyond the Hidden Realm"
   }
 }
