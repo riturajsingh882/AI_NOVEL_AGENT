@@ -1,8 +1,8 @@
 {
-  "current_chapter": 43,
-  "current_page": 429,
+  "current_chapter": 44,
+  "current_page": 432,
   "total_pages": 200,
-  "last_commit": "2025-06-21T04:07:01.524998",
+  "last_commit": "2025-06-22T04:16:30.221187",
   "chapter_titles": {
     "1": "The Shadows Within",
     "2": "Beyond the Shrouded Threshold",
@@ -46,6 +46,7 @@
     "40": "Beyond the Threshold",
     "41": "Beyond the Hidden Realm",
     "42": "Beyond the Hidden Realm",
-    "43": "The Heartstone's Secret"
+    "43": "The Heartstone's Secret",
+    "44": "The Language of the Heart"
   }
 }
