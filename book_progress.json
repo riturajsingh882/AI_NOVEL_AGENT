@@ -1,8 +1,8 @@
 {
-  "current_chapter": 49,
-  "current_page": 489,
+  "current_chapter": 50,
+  "current_page": 492,
   "total_pages": 200,
-  "last_commit": "2025-07-11T04:21:22.780123",
+  "last_commit": "2025-07-12T04:16:33.892265",
   "chapter_titles": {
     "1": "The Shadows Within",
     "2": "Beyond the Shrouded Threshold",
@@ -52,6 +52,7 @@
     "46": "Into the Darkness Fades",
     "47": "Beyond the Shadow Threshold",
     "48": "Beyond the Darkened Threshold",
-    "49": "Beyond Cosmic Visions"
+    "49": "Beyond Cosmic Visions",
+    "50": "Into the Unseen Depths"
   }
 }
